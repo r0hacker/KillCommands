@@ -1,0 +1,4 @@
+commands: 
+  - "broadcast Игрок <killer> убил игрока <target>"
+  - "eco give <killer> 3"
+  - "eco take <target> 3"
