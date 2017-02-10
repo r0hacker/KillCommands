@@ -1,4 +1,4 @@
-package tacos.killcomands;
+package tacos.killcommands;
 
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
