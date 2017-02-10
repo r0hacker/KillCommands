@@ -1,4 +1,5 @@
 commands: 
   - "broadcast Игрок <killer> убил игрока <target>"
   - "eco give <killer> 3"
+  - "msg <killer> &fВы получили &e3 монеты за убийство &c<target>
   - "eco take <target> 3"
