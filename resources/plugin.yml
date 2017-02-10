@@ -1,0 +1,4 @@
+name: KillCommands
+main: tacos.killcommands.Main
+version: 1.0
+author: Tacos
